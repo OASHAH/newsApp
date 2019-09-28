@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">newsApp</string>
+    <string name="title_activity_screen2">screen2</string>
+    <string name="title_activity_screen3">screen3</string>
+</resources>
